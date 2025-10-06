@@ -27,3 +27,5 @@ _Bounding spread in infinite graphs._
 ###### Contact information
 
 You may reach me at andy2\[AT]illinois.edu.
+
+You may find my [LinkedIn](https://www.linkedin.com/in/anandyclee/) and my [Github](https://github.com/andyclee) pages as well.
