@@ -20,7 +20,7 @@ _Bounding spread in infinite graphs._
 
 ### Face
 
-![An image of my face.](/profile_picture.jpg "My face.")
+<img alt="An image of my face." src="/profile_picture.jpg" width="25%">
 
 ###### Contact information
 
