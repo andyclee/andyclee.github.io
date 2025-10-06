@@ -6,7 +6,7 @@ In my free time I enjoy racquet sports, cooking, and watching movies. You may fi
 
 ### Work
 
-My resume is [available here](https://drive.google.com/file/d/1K6pvJ9aQuMTVJsJ1hKbEB0sQzvJT1Q9Y/view?usp=sharing).
+My resume is [available here](/ResearchResumeSEPT25.pdf).
 
 _Modeling resource constrained, boundedly rational agents in network formation, currently being expanded for resubmission_
 
