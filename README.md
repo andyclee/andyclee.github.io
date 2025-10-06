@@ -8,17 +8,12 @@ In my free time I enjoy racquet sports, cooking, and watching movies. You may fi
 
 My resume is [available here](/ResearchResumeSEPT25.pdf).
 
-  _Modeling resource constrained, boundedly rational agents in network formation, currently being expanded for resubmission_
-  
 1. Balepur, Naina, Andy Lee, and Hari Sundaram. "Friends with Costs and Benefits: Community Formation with Myopic, Boundedly-Rational Actors." arXiv preprint arXiv:2312.14293 (2023).
-
-  _Covariance intersection based methods for object tracking_
-
+   - _Modeling resource constrained, boundedly rational agents in network formation, currently being expanded for resubmission_ 
 2. Lee, Andy C.. "Analysis of Covariance Intersection For Triangulation." , Aug. 2024. https://doi.org/10.2172/2429882
- 
-  _Bounding spread in infinite graphs_
-
+   - _Covariance intersection based methods for object tracking_
 3. Dean, Abdullah, et al. "Firefighting on the hexagonal grid." Discrete Applied Mathematics 305 (2021): 16-22.
+   - _Bounding spread in infinite graphs_
 
 ### Teaching
 
