@@ -20,6 +20,12 @@ _Bounding spread in infinite graphs_
 
 3. Dean, Abdullah, et al. "Firefighting on the hexagonal grid." Discrete Applied Mathematics 305 (2021): 16-22.
 
+### Teaching
+
+* TA CS173 Discrete Structures
+* TA CS105 Intro CS for non-technical majors
+* TA CS225 Data Structures and Algorithms
+
 ### Face
 
 <img alt="An image of my face." src="/profile_picture.jpg" width="15%">
