@@ -16,7 +16,7 @@ _Covariance intersection based methods for object tracking_
 
 2. Lee, Andy C.. "Analysis of Covariance Intersection For Triangulation." , Aug. 2024. https://doi.org/10.2172/2429882
 
-_Bounding spread in infinite graphs._
+_Bounding spread in infinite graphs_
 
 3. Dean, Abdullah, et al. "Firefighting on the hexagonal grid." Discrete Applied Mathematics 305 (2021): 16-22.
 
