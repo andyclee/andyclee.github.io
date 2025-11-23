@@ -1,6 +1,6 @@
-## Hello!
+## About
 
-I'm Andy, a 3rd year PhD candidate in the School of Computer Science at the University of Illinois Urbana-Champaign. I am advised by [Hari Sundaram](https://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/). Broadly, I work in algorithmic game theory and mechanism developing models and algorithms for helping people make decisions under complexity and uncertainty. I am particularly interested in models and mechanisms considering attention as a scarce resource.
+I'm Andy, a 3rd year PhD candidate in the School of Computer Science at the University of Illinois Urbana-Champaign. I am advised by [Hari Sundaram](https://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/). Broadly, I work in algorithmic game theory and mechanism design developing models and algorithms for helping people make decisions under complexity and uncertainty. I am particularly interested in models and mechanisms considering attention as a scarce, rivalrous resource.
 
 In my free time I enjoy racquet sports, cooking, and watching movies. You may find some of my work, contact information, and a picture of my face below.
 
@@ -24,6 +24,12 @@ My resume is [available here](/ResearchResumeSEPT25.pdf).
 ### Face
 
 <img alt="An image of my face." src="/profile_picture.jpg" width="15%">
+
+### Awards
+
+* Outstanding TA Spring 2025
+* Wing Kai Cheng fellowship 2023-2024
+* Illinois Geometry Lab Research Award 2021
 
 ###### Contact information
 
