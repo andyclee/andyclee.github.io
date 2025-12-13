@@ -13,7 +13,7 @@ My resume is [available here](/ResearchResumeSEPT25.pdf).
 2. Lee, Andy C.. "Analysis of Covariance Intersection For Triangulation." , Aug. 2024. https://doi.org/10.2172/2429882
    - _Covariance intersection based methods for object tracking_
 3. Dean, Abdullah, et al. "Firefighting on the hexagonal grid." Discrete Applied Mathematics 305 (2021): 16-22.
-   - _Bounding spread in infinite graphs_
+   - _Bounding spread in infinite planar graphs_
 
 ### Teaching
 
