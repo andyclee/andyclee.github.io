@@ -1,6 +1,6 @@
 ## About
 
-I'm Andy, a fourth year PhD student (started Fall 2023) in the School of Computer Science at the University of Illinois Urbana-Champaign. I am advised by [Hari Sundaram](https://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/). Broadly, I am interested in algorithmic game theory, mechanism design, optimization, and behaviorally informed learning. I am particularly interested in developing models and algorithms for helping cognitively constrained agents (people) make decisions.
+I'm Andy, a fourth year PhD student (started Fall 2023) in the School of Computer Science at the University of Illinois Urbana-Champaign. I am advised by [Hari Sundaram](https://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/). Broadly, I am interested in algorithmic game theory, mechanism design, optimization, and behaviorally informed learning. I am particularly interested in algorithms and mechanisms for managing agents with scarce attention and uncertain preferences.
 
 In my free time I enjoy racquet sports, cooking, and watching movies. I also help organize the Champaign-Urbana coffee club, please let me know if you are interested in joining. You may find some of my work, contact information, and a picture of my face below.
 
