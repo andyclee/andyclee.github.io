@@ -11,12 +11,13 @@ My resume is [available here](/ResearchResumeAUG26.pdf).
 1. Lee, Andy, and Hari Sundaram. "Auctioning Attention on Social Networks." arXiv preprint arXiv:2608.06665 (2026).
    - _An auction based method for eliciting content producers' values over the content they create; balances between the welfare of multiple stakeholders_
 2. Lee, Andy, Naina Balepur, and Hari Sundaram. "Friends with costs and benefits: community formation with myopic, boundedly-rational actors." Applied Network Science (2026).
-   - link.springer.com/article/10.1007/s41109-026-00835-x
+   - [Available here (open access](link.springer.com/article/10.1007/s41109-026-00835-x)
    - _Modeling resource constrained, boundedly rational agents in network formation, currently being expanded for resubmission_ 
 4. Lee, Andy C.. "Analysis of Covariance Intersection For Triangulation." , Aug. 2024.
-   - https://doi.org/10.2172/2429882
+   - [Available here](https://doi.org/10.2172/2429882)
    - _Covariance intersection based methods for object tracking_
 6. Dean, Abdullah, et al. "Firefighting on the hexagonal grid." Discrete Applied Mathematics 305 (2021): 16-22.
+   - [Available here (open access)](https://www.sciencedirect.com/science/article/pii/S0166218X21003383)
    - _Bounding spread in infinite planar graphs_
 
 ### Teaching
